@@ -1,2 +1,1 @@
-# ManasaGottimukkula_TDD-JUnit
-Introduction to TDD and JUnit
+Introduction to tdd_junit
